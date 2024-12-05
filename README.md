@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"></a>
 <img src="https://img.shields.io/badge/GoLand-33b8ff?style=for-the-badge&logo=GoLand&logoColor=white"></a>
 <img src="https://img.shields.io/badge/IntelliJIDEA-ff4c33?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
+<img src="https://img.shields.io/badge/mac%20os-808b96?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
